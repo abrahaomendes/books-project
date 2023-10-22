@@ -6,9 +6,7 @@ Cadastro de Livros: Adicione novos livros à base de dados com informações com
 
 Listagem de Livros: Consulte a lista completa de livros cadastrados.
 
-Busca por Nome: Realize buscas por nome do livro para encontrar informações específicas.
-
-Atualização e Exclusão: Atualize informações ou remova livros existentes.
+Busca por Ids: Realize buscas por id do livro para encontrar informações específicas.
 
 Tecnologias Utilizadas:
 Spring Boot: Framework para desenvolvimento de aplicações Java.
